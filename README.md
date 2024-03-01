@@ -6,10 +6,15 @@ https://app.powerbi.com/links/AOvLnYa3hV?ctid=ef33f1cd-b72d-459a-83e7-1ad7bd744d
 
 ## Here are some key insights from the dashboard:
 🧬Sales by Region: The "Sum of Sales by Region" table shows that the West region has the highest total sales (1,566K), followed by Central (175K) and South (92K). However, the East region has the highest average division size (3.93).
+
 🧬Sales by Ship Mode: The "Sales by Ship Mode" bar chart shows that most sales are shipped via Standard Delivery (330K), followed by Home Delivery (190K) and Expedited Freight (112K).
+
 🧬Sales by Month over Year (YoY): The "Monthly Sales by YoY" line chart shows that sales have increased year-over-year in both 2019 and 2020.
+
 🧬Sales by Payment Mode: The "Sum of Sales by Payment Mode" table shows that credit cards are the most popular payment method, accounting for 43% of total sales (82K).
+
 🧬Sales by Category and Sub-Category: The "Sales by Category" and "Sales by Sub-Category" tables show that furniture is the top-selling category, with office furniture being the most popular subcategory.
+
 🧬Monthly Sales Trend: The bottom timeline chart suggests that sales are higher in the summer months (June, July, August) and lower in the winter months (December, January, February).
 
 ## Here are some observations from the sales forecast:
