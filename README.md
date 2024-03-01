@@ -17,10 +17,16 @@ https://app.powerbi.com/links/AOvLnYa3hV?ctid=ef33f1cd-b72d-459a-83e7-1ad7bd744d
 
 🧬Monthly Sales Trend: The bottom timeline chart suggests that sales are higher in the summer months (June, July, August) and lower in the winter months (December, January, February).
 
+
 ## Here are some observations from the sales forecast:
+
 🔋Overall Sales Trend: The sales forecast shows an upward trend, with some fluctuations throughout the year. Sales appear to be higher in Q4 (October) and lower in Q1 (April) for most states.
+
 🔋State Performance: California has the highest projected sales throughout the timeframe, followed by New York and Texas. Pennsylvania and Ohio have the next highest forecasted sales.
+
 🔋Specific State Examples: 
-California: Sales are expected to be around 335K in June 2019 and increase to 420K by October 2020. They are then expected to climb to over 500K by January 2021.
-New York: Sales are forecasted to be around 187K in June 2019 and reach nearly 220K by October 2020. They are then expected to surpass 250K by January 2021.
-Texas: Sales are expected to be around 116K in June 2019 and reach over 140K by October 2020. They are then expected to climb to nearly 170K by January 2021.
+📜California: Sales are expected to be around 335K in June 2019 and increase to 420K by October 2020. They are then expected to climb to over 500K by January 2021.
+
+📜New York: Sales are forecasted to be around 187K in June 2019 and reach nearly 220K by October 2020. They are then expected to surpass 250K by January 2021.
+
+📜Texas: Sales are expected to be around 116K in June 2019 and reach over 140K by October 2020. They are then expected to climb to nearly 170K by January 2021.
